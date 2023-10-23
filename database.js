@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
     //newuser has all the privilages as the root user
     user: 'newuser',
     //password if there is any
-    password: 'Amlesubirhanu123@'
+    password: ''
 });
 
 //check if connection is successful
