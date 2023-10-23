@@ -70,7 +70,7 @@ Folowing are screenshots that show what each page look like:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Product Inventory System](https://github.com/ManaIsrael/product-inventory)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
