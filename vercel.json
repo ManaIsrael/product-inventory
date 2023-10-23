@@ -1,15 +1,1 @@
-{
-    "version": 2,
-    "builds": [
-        {
-            "url": "/routes/product_data.js",
-            "use": "@vercel/node"
-        }
-    ],
-    "routes": [
-        {
-            "src": "/(.*)",
-            "dest": "/"
-        }
-    ]
-}
+
